@@ -1,9 +1,23 @@
 h1{
     color: rgb(127, 138, 255);
     background-color: rgb(43, 49, 226);
+    text-align: center;
+    border-radius: 10px;
 }
 
 body{
     background-color: rgb(196, 219, 255);
     color: cadetblue;
+    display:block;
+    text-align: center;
+    margin: 20px;
+    padding: 10px;
+}
+a{
+    background-color: #666666;
+    color: aqua;
+    display: block;
+    text-align: center;
+    margin: 20px;
+    padding: 10px;
 }
